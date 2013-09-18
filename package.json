@@ -1,22 +1,25 @@
 {
-  "name": "hubot-example",
-  "description": "An example script pacakage for Hubot",
+  "name": "hubot-heroku-dynos",
+  "description": "This script will display the current number and types of dynos in use for a Heroku app.",
   "version": "1.0.0",
-  "author": "Tom Bell <tomb@tomb.io>",
+  "author": "Andrew Glover <ajglover@gmail.com>",
   "license": "MIT",
 
   "keywords": [
     "hubot",
-    "hubot-scripts"
+    "hubot-scripts",
+    "Heroku",
+    "Heroku-dynos",
+    "Dynos"
   ],
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-example.git"
+    "url": "git@github.com:aglover/hubot-heroku-dynos.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-example/issues"
+    "url": "https://github.com/aglover/hubot-heroku-dynos/issues"
   },
 
   "dependencies": {
